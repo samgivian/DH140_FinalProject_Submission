@@ -1,5 +1,7 @@
 # Examing social scientists appearance before Congress from 1946 to 2016
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samgivian/DH140_FinalProject_Submission/HEAD)
+
 ### Topic 
 
 Since the beginning of Covid-19, science and scientists have faced a lot of distrust and attacks from the public and even congress. I was curious to see if congress has historically relied on experience and guidance of experts for help or not. In this project I'm trying observe trends between social scientists appearence before congress by year, party, type and events. I think as society we need to rely more on guidance of scientists as they have spent years studying and thinking how to solve our problems and congress could benefit from hearing what they have to say.
@@ -12,4 +14,3 @@ Since the beginning of Covid-19, science and scientists have faced a lot of dist
 5. What type of social scientists appear the most?
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samgivian/DH140_FinalProject_Submission/HEAD)
