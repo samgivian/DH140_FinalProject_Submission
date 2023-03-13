@@ -10,3 +10,6 @@ Since the beginning of Covid-19, science and scientists have faced a lot of dist
 3. Are there any patterns between crises and number of scientists appearning between congress?
 4. Does congress being dominated by republicans or democrates effect the number of social scientists appearning before congress?
 5. What type of social scientists appear the most?
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samgivian/DH140_FinalProject_Submission/HEAD)
