@@ -6,8 +6,8 @@
 
 ### Topic 
 
-Since the beginning of Covid-19, science and scientists have faced a lot of distrust and attacks from the public and even congress. I was curious to see if congress has historically relied on experience and guidance of experts for help or not. In this project I'm trying observe trends between social scientists appearence before congress by year, party, type and events. I think as society we need to rely more on guidance of scientists as they have spent years studying and thinking how to solve our problems and congress could benefit from hearing what they have to say.
-    
+Since the beginning of Covid-19, science and scientists have faced a lot of distrust and attacks from the public and even Congress. I was curious to see if Congress has historically relied on the experience and guidance of experts for help or not. Specifically, during times of crises like the financial crises of 2008 or the stagflation era of the 1980s, the 2001 terrorist attack, and the tech bubble of 2001. I also wanted to see whether our government relies more on the help of experts compared to the past as we have progressed and have more experts available to help us in making legislation. In this project, I examine the trend of different social scientist's testimony before Congress and their probable causes. This project also looks into the effect of the US political environment and the shift in the number of social scientists' testimonies over the years. Additionally, it finds out what issues Congress invites social scientists to testify.
+
 ### Questions answered in this project
 1. What type of social scientists does Congress mostly invite to testify?
 2. Has the number of social scientists appearing before Congress increased over time?
@@ -18,8 +18,15 @@ Since the beginning of Covid-19, science and scientists have faced a lot of dist
 7. Are there any patterns between crises and the number of scientists testifying before Congress?
 
 ### Repository Content:
+* CongressDataset.csv
+* FinalProjectCode.ipynb
+* MergedDataset.csv
+* README.md
+* SocialScientistsTestiomonyDataset.csv
+* USRecessionData.csv
+* requirements.txt
 
-*
+
 
 Clear description of
 repository contents;
