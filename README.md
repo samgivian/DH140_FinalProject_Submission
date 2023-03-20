@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samgivian/DH140_FinalProject_Submission/HEAD)
 
-[Link to this Projects's Blog](https://samgivian.github.io/DH140FinalProjectBlog/)
+[Link to Blog](https://samgivian.github.io/DH140FinalProjectBlog/)
 
 ### Topic 
 
