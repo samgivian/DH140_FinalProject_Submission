@@ -26,7 +26,10 @@ Since the beginning of Covid-19, science and scientists have faced a lot of dist
 * USRecessionData.csv
 * requirements.txt
 
-
+### Datasets:
+* [Social scientists congressional testimony](https://osf.io/e3h98/files/osfstorage).
+* [Party Divisions of the House of Representatives, 1789 to Present](https://history.house.gov/Institution/Party-Divisions/Party-Divisions/).
+* [Dates of U.S. recessions as inferred by GDP-based recession indicator](https://fred.stlouisfed.org/series/JHDUSRGDPBR)
 
 Clear description of
 repository contents;
