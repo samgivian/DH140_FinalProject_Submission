@@ -1,4 +1,4 @@
-# # Analyzing social scientists' testimonies trends before the United States Congress from 1946 to 2016
+# Analyzing social scientists' testimonies trends before the United States Congress from 1946 to 2016
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samgivian/DH140_FinalProject_Submission/HEAD)
 
